@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## SikritRecipe
+### Problem Space
 
-You can use the [editor on GitHub](https://github.com/V-ngo/sikritrecipe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+With the COVID pandemic, many people are at home more. Without the commute times, people have a lot more time on their hands than they used to, so it is the perfect opportunity for users to cook or learn how to cook. However, with the prevalence of food delivery apps such as *DoorDash, Uber Eats,* etc., people do not see the need for home cooking and eat take out more which is more unhealthy. Also, the price of using these food delivery apps add up which makes it harder to afford to eat out for less affluent individuals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Another aspect of the problem is that not everyone has someone that can teach them how to cook. There is also a lack of motivation to cook because people do not usually have anyone to share it with so people are less inclined to pull out all the stops when it comes to cooking.
 
-### Markdown
+### Target User
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The primary target users for this app would be young adults. The secondary users for this app would be home cooks and experienced cooks who want to join a community surrounding food.
 
-```markdown
-Syntax highlighted code block
+In order to better understand our design space, we would need to know why users choose to eat out vs cooking at home, how motivated users are to learn to cook, if users like sharing their cooking experiences with other people, and what stops users from home cooking.
 
-# Header 1
-## Header 2
-### Header 3
+We believe that this recipe app will support our users to enact care because they will eat more home cooked food which is usually much healthier. Also, users can find a community around food which will motivate them to cook more. On top of this, cooking can be therapeutic and a nice hobby for people to escape/separate from their work.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/V-ngo/sikritrecipe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
