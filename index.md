@@ -59,7 +59,7 @@
 
   We have a very simple and basic design for our login and register screen. Our signup process is very quick and simple. All the user needs is their email and comes up with a good username. It provides users with all of the necessary functionality for logging in or registering. It is a very standard screen.
 
-![image8](https://user-images.githubusercontent.com/72105812/169169441-b08adb8f-e073-4097-b0da-6cc5577f5dcd.png)
+<img src="https://user-images.githubusercontent.com/72105812/169169441-b08adb8f-e073-4097-b0da-6cc5577f5dcd.png" width="200"/>
 ![image3](https://user-images.githubusercontent.com/72105812/169169453-0a2ff60b-ce5a-4e6f-9440-3fb6bfd28f71.png)
 
   After the user is logged in or not, they will see our home page. This screen has the search bar, an explore section, and other new recipes. For our explore section, it shows the top, most viewed, or popular combined list of recipes for users to check out. On the top left corner, there’s a navigation button that can direct the user to their page of interest. Also, the “logout” button only appears once the user is logged in, if not, the “login” button will be replaced instead.
