@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Usability Testing
-parent: prototyping
+parent: Prototyping
 nav_order: 2
 ---
 
