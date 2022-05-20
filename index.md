@@ -19,6 +19,9 @@
   We analyzed the data by creating an affinity diagram using a web application called Miro. We coded the answers and observations we received during our user research into smaller pieces. We then grouped up these coded answers based on similarity and themes. We ensured that our themes were consistent mainly because we started off with the basic themes we based our questions off of such as what people thought their cooking obstacles were and what dishes they liked to cook. We then noticed patterns between these basic themes such as where many participants said time was a huge cooking obstacle and some also said that their favorite recipes/dishes were ones that were quick and simple to make. We worked as a team to find these patterns and themes, and we made sure to take a few days off after our first session to make sure we had fresh eyes on it the next time we viewed the affinity diagram.
 
 ## Findings
+
+Below we have separated our findings into two categories: cooking obstacles and cooking motivations. Within each category, we were able to extract different aspects of these categories.
+
 ## Cooking Obstacles
 ### 1 - Time constraints
   A common theme that we found while interviewing our participants was that our participants found the lack of time to be an obstacle to cooking. This can be seen in one of our participant’s answers where we asked what her main obstacle to cooking was: “The primary obstacle when it comes to cooking is time. I have a lot on my plate and there just isn’t enough time in the day to really plan out and cook some extravagant meal.” This participant also agreed to a contextual inquiry so while the interviewer asked these interview questions, he observed the participant’s behavior while she cooked. She seemed slightly annoyed/flustered while answering the questions, which the interviewer believed was due to her needing to stop and think about some of her answers while she was cooking. Also, the participant was scrambling to find cooking equipment she needed, preparing all the ingredients needed, and making sure her kitchen wasn’t becoming messy with used pans, pots, etc. The participant also had to leave the kitchen to answer work-related calls, so the participant was juggling a lot of tasks. Extrapolating this participants situation to others who work full-time jobs and we can assume that these people deal with similar situations where they struggle to cook due to lack of time. 
@@ -45,6 +48,9 @@
   Participants want to share recipes they are proud of, primarily through social media or friends/family. Since our app has social elements to it, mainly through the streaming and videos on how to make certain dishes. Users of lesser skill can show off what they have learned, and experienced cooks can teach less skilled users useful information and share tips on how to do something better or faster.
 
 ## Design Prototyping
+After extracting some basic themes from our user research study, we moved onto designing low-fidelity wireframes to get a better sense of how we would design certain features to accomodate our users.
+
+
 ### Wireframes
   After looking at our data analysis from our user study, the main design features we wanted to focus on were the search functionality, the recipe tutorial page, and the upload recipe page. Also, because users will most likely be using our product while cooking in the kitchen, the wireframes we designed are for phone screens.
 
@@ -88,7 +94,59 @@
 
 
 
+# High-Level Prototyping/Iteration
 
+
+## 1st Iteration
+After creating these low-fidelity wireframes, we moved on to create a high-level prototype using <i>Figma</i>. Our main focus for the 1st iteration prototype was to get a better sense of the flow of the entire app. Below are some screenshots of our 1st iteration prototype:
+
+
+
+
+<b><I>IMAGES HERE</I></B>
+
+
+## 2nd Iteration/Heuristic Evaluation
+
+The next step we took was we ran heuristic evaluation tests. For these tests, we went the entire app, looking for unfamiliar or unclear buttons, hard-to-navigate to pages, etc. After finding as many problems as we could, we redesigned/altered the screens of our app to make sure that these problems were minimized or disappeared completely. Here are some screenshots of the before and after heuristic evaluations as well as explanations for the problems and fixes:
+
+
+
+<b><I>IMAGES HERE</I></B>
+
+
+## Final Iteration/Usability Tests
+
+### Usability Test Description
+
+The final step in iteration we took was running user usability tests. We came up with three different usability tests designed around three main features: uploading a new recipe, searching for a recipe, and following a recipe. However, we did run into an issue when designing these usability tests due to the fact that Figma does not take user input (text/keyboard input). Because most of our main features require some text/keyboard input, it was hard to design the usability tests in a way to help users experience exactly how the app would flow. So, the way we decided to structure our usability tests was that we were going to hardcode parts of the flow that required text input and other things such as what recipe users were going to upload or search for, etc. 
+
+The reason it is acceptable to hardcode the results/interactions of what the user should be getting is because we aren't interested in what the user is typing. We are only interested in the flow of the app and if the user can get to the end goal. We can still receive valuable feedback for the flow even without having user input.
+
+
+
+
+### Results
+
+One thing made clear while observing our users during the usability tests was the small screen size. Because we designed our prototype using Figma on a computer with a large monitor screen, it made us overlook some UX issues such as too small of buttons, especially on our search filter screen. Therefore, one of the main changes/improvements we made after our usability tests was to use modals instead of small dropdown menus on small buttons.
+
+
+<b><i>INSERT IMAGE HERE</i></b>
+
+
+Another thing we noticed was that even though users want a lot of control when it comes to inputs, which is why we also added the modal in the filter screen shown above, users still want selectable options as a supplement. We made these changes across the app, especially adding the modal feature that we had in the filter screen shown above, just to keep the app more consistent.
+
+
+# Future Work
+
+There is much more room to grow in terms of potential of this app. We recommend designers of similar apps to make sure that users have many options when it comes to searching for recipes and to streamline the process. What we mean by streamlining the process is make it easy for users to search for recipes with ingredients of their choosing. Another more general tip would be to continue with more iteration. Due to the time constraints of the semester, we were unable to iterate more on our high level prototype and run even more user studies.
+
+One thing designers should avoid is expanding the scope of app too readily. We have many different features that have many different screens. However, this made our app lose focus on our main feature of making it easy for users to search for recipes with specific ingredients that they choose. Making sure to cut down on unnecessary ideas/features that are not directly relevant to the problems that you are trying to solve for your users is essential to bring out the best in your app and the most help towards your users.
+
+
+# Team Members
+
+Vy Ngo, Benjamin Kao, Sherman Wong, Alexander Smith, Edhel Jhon Cenario
 
 
 
