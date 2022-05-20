@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+---
+
 # SikritRecipe
 ## Problem Space
   With the COVID pandemic, many people are at home more. Without the commute times, people have a lot more time on their hands than they used to, so it is the perfect opportunity for users to cook or learn how to cook. However, with the prevalence of food delivery apps such as *DoorDash, Uber Eats,* etc., people do not see the need for home cooking and eat take out more which is more unhealthy. Also, the price of using these food delivery apps add up which makes it harder to afford to eat out for less affluent individuals.
