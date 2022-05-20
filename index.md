@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # SikritRecipe
+https://www.figma.com/file/zPNad6IzYUQc0Z7e14SxPc/Sikrit-Recipe?node-id=0%3A1
 ## Problem Space
   With the COVID pandemic, many people are at home more. Without the commute times, people have a lot more time on their hands than they used to, so it is the perfect opportunity for users to cook or learn how to cook. However, with the prevalence of food delivery apps such as *DoorDash, Uber Eats,* etc., people do not see the need for home cooking and eat take out more which is more unhealthy. Also, the price of using these food delivery apps add up which makes it harder to afford to eat out for less affluent individuals.
 
@@ -28,29 +29,29 @@ nav_order: 1
 
 Below we have separated our findings into two categories: cooking obstacles and cooking motivations. Within each category, we were able to extract different aspects of these categories.
 
-## Cooking Obstacles
-### 1 - Time constraints
+## 1st Cooking Obstacles
+### a - Time constraints
   A common theme that we found while interviewing our participants was that our participants found the lack of time to be an obstacle to cooking. This can be seen in one of our participant’s answers where we asked what her main obstacle to cooking was: “The primary obstacle when it comes to cooking is time. I have a lot on my plate and there just isn’t enough time in the day to really plan out and cook some extravagant meal.” This participant also agreed to a contextual inquiry so while the interviewer asked these interview questions, he observed the participant’s behavior while she cooked. She seemed slightly annoyed/flustered while answering the questions, which the interviewer believed was due to her needing to stop and think about some of her answers while she was cooking. Also, the participant was scrambling to find cooking equipment she needed, preparing all the ingredients needed, and making sure her kitchen wasn’t becoming messy with used pans, pots, etc. The participant also had to leave the kitchen to answer work-related calls, so the participant was juggling a lot of tasks. Extrapolating this participants situation to others who work full-time jobs and we can assume that these people deal with similar situations where they struggle to cook due to lack of time. 
 
   This time constraint theme can also be seen in some of our participants favorite recipes. One participant said his favorite recipe is marinated chicken covered in crouton crumbs and his reason for why it was his favorite was due to how quick the recipe is: “It’s my favorite [recipe] because it’s pretty simple, it’s got texture, and it’s fast.” People like quick, easy recipes that are delicious. They don’t want recipes that may take many hours or even days to prepare and create.
 
-### 2 - Thinking of what to cook
+### b - Thinking of what to cook
   Another common theme we found that we find relevant to the time constraint cooking obstacle was thinking of what to cook. Participants found that thinking of what dishes to cook consumed a lot of time so many of our participants choose to have a set number of dishes that they cook every week to circumvent this issue. Another participant said the way he decides what to cook is based on whatever is available in his house: “Everytime I cook, I check what’s available and just use it and maybe learn something then?” So, combining these two themes, we can imagine a feature that can help users find recipes based off of certain ingredients they say they have. This will not only help users think of what to cook but also maximize their use of ingredients. For example, if a user had ingredients that would expire soon, he/she could search for recipes that contain those soon-to-be expired ingredients. This will help eliminate food waste as well.
 
-### 3 - Mess in the kitchen
+### c - Mess in the kitchen
   One of the common cooking obstacles that we noticed after interviewing our participants is their concern about the mess they will be creating in the kitchen. Given that most of our participants have mid-to-no-experience in cooking, they found that there will be catastrophic aftermath with their adventurous take on cooking. It is almost as if they don’t cook not because they don’t have the equipment or knowledge to do so, but more concerned that they will have to clean after they spend all the time preparing and cooking their food. One feature that we can implement to combat this problem, is adding cleaning to the recipe itself so that the cleaning can be done as the food is being prepared. Instead of saving all the cleaning at the end, we can start the process of cleaning as they finished using those items. This will solve our problem where people are more reluctant to cook because they don’t want to clean a big mess after. We can also introduce recipes that are low-mess, in which there won’t be that many things to clean and less trash to throw away. To further improve this, we can also introduce left-over recipes, and repurposed meat recipes to lessen food waste.
 
-### 4 - Lack of Motivation
+### d - Lack of Motivation
   The biggest cooking concern that we have is the participant’s lack of motivation to cook. Most of the time, people are actually good at cooking but they don’t have enough motivation to do so. As we interviewed our participants, we found a common theme, that will ultimately be our biggest concern, as we see their answers create a huge trend of having little-to-no motivation in cooking. We believe that this concern comes with many factors including the ones mentioned above. When all of the factors and all the other problems are combined into one, it results in a lack of motivation to cook. To further discuss our interview results, we also looked back and noticed that since our demographic age ranges from 18-to-40, the biggest factor why they are not motivated to cook is because they think that it is way easier, faster, and better to buy food or eat out instead of spending the time planning, prepping, and cooking the food themselves. Although this factor can be very hard to combat in our app, we are planning on introducing things that will motivate our users to cook more. By creating a place where they can share, learn, and connect with other people going through the same obstacles in cooking, or even in life, we are hoping to create a positive atmosphere for everyone using our app. 
 
-## Cooking Motivations
-### 1 - Money
+## 2nd Cooking Motivations
+### a - Money
   Many participants find cooking at home as a way of saving money versus ordering take out: “Being able to save money is the biggest rewarding element of cooking… it doesn’t take a rocket scientist to see the difference between buying food and buying ingredients.” Another participant said, “Take out is too expensive.” People know that home cooking is cheaper but going back to the problem of time constraints when weighing short-term benefits versus long-term benefits during busy times, people would be more likely to choose the short-term benefit. If these people do choose the short-term benefit and they know that take out is more expensive, they would most likely choose to eat cheap fast food or less nutritious food, thus affecting their health.
 
-### 2 - Teaching others to cook
+### b - Teaching others to cook
   Some people are born to be teachers in life, with a passion to help others in need and keep them on the right track in life. We saw some of these teachers as we did the interview with our participants. One of the trends that we noticed while asking our participants what their biggest motivation to cook is, is to show the world what they’ve created and share the experience they had while doing so. In SikritRecipe, we are hoping to compliment people's passion and give them a proper platform to showcase their skills and love of teaching. We will create a feature where people can show their love for the community by creating step-by-step cooking recipes alongside a video of them showing how to prepare and cook the food. We will be able to capture people’s passion for teaching and help their fellow cooks along the way. 
 
-### 3 - Sharing Recipes
+### c - Sharing Recipes
   Participants want to share recipes they are proud of, primarily through social media or friends/family. Since our app has social elements to it, mainly through the streaming and videos on how to make certain dishes. Users of lesser skill can show off what they have learned, and experienced cooks can teach less skilled users useful information and share tips on how to do something better or faster.
 
 ## Design Prototyping
@@ -154,12 +155,59 @@ One thing designers should avoid is expanding the scope of app too readily. We h
 
 Vy Ngo, Benjamin Kao, Sherman Wong, Alexander Smith, Edhel Jhon Cenario
 
+(Heuristic Evaluation images)
+
+<img src="https://user-images.githubusercontent.com/72105812/169433365-e0c66cb8-efbf-48eb-a51a-89d4353a494b.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433366-9dd32352-660c-4e19-a499-de9736a21513.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433367-36fe409b-3325-4d88-9156-3251ad7e87c9.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433369-fb07cd12-5e38-4ef6-8b0a-889acfdabf32.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433370-74eb1244-64d6-413f-9f98-11749a05f351.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433371-6015d44b-c143-44f3-99db-ef5fd1e29df0.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433372-c77cd90c-bca4-4a90-a93c-435fb1a16e71.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433300-4f376c95-edd1-4674-ac7e-24ec4597101d.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433302-48f1f3ce-f294-49b8-a33f-ad728e11f70e.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433304-86f06634-0232-45e4-94f7-245fec04c736.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433306-b5fbfe72-3fa3-4f82-8b01-c2a845e91faa.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433308-dd1d6df0-a584-4b80-a318-cad6b8c31b51.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433309-532927fa-94f6-4356-a291-d6f98ad57c68.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433310-7cfe0188-587f-41bf-97c7-ae2fe0b4ce3c.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433312-7ae2dc24-34db-4785-9d36-67343cea4a04.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433313-d9c90212-d353-4492-8229-4305c4f29ad7.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433314-cb1264eb-df83-4b25-958d-830ede28b48f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433316-81e6d6d7-ab22-4c73-adca-fcdf6997387d.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433317-9e5c0992-6465-4e27-8c53-e1cb592328a8.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433319-210b6aa6-7b69-42f4-bcfc-57eec4e0d377.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433323-086b0724-65e7-4a1b-a030-991630c1422b.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433325-0673deec-ae11-4604-a216-190b10988436.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433330-597280ac-8ae5-4fa9-a39e-562eee552597.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433332-dfd556e5-1a63-48ce-a660-59c1db4f806f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433335-a5d3c712-6fee-45c6-9435-c13f13a4288d.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433337-f6fdae7e-75e4-4998-a91f-1f80a3d71195.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433338-8e420110-4cde-46fc-aecf-cb78e6abc4bc.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433339-09229f48-4017-4f4b-8819-9bcd19e10a93.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433340-0d2dc7e6-d48e-4417-83ba-17f1537eee3a.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433341-fd019f55-50f1-4520-9469-6ca6a7e8f302.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433343-6341984f-493c-47ef-954a-8242368266ce.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433346-ba929fda-8688-4ca9-a9ca-3566240e9197.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433347-0c0bb211-6010-4479-ad6d-a40772380019.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433348-98be3f0a-60ce-418f-81e6-88a8a0801d0c.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433349-a4575d90-6da7-4b68-b380-273fd997bf64.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433350-401daf82-973a-45ee-8cd1-cd1ba7aa9495.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433351-67506eec-6bfb-4909-bae4-fdae555b22b6.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433353-7c357084-0145-4516-843e-74734a92689f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433354-801ce76a-cf94-4941-a0d1-35b222dc725e.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433356-9c076838-63da-4157-ae4a-333be53f48a6.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433358-1e87a1fa-facf-41f5-a204-06c0c91169b2.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433360-3dc505f5-8cc4-430c-8f31-e1091773cffd.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433361-7ba36562-e596-43af-98de-b48b42550f8a.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433362-424a735e-726f-4e66-bbb9-246eb9289148.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169433364-3f35c807-f3fc-4d09-a6c3-c4128c27214c.png" width="200"/>
 
 
+(Usability tests images)
 
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/72105812/169432464-cbca16da-a21e-4a01-b56f-cf0eb7a8a047.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169432490-1a659a47-c8f6-451c-a047-3e1fa4364f32.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169432493-92271411-7bdd-474a-905f-76914dbb2a29.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72105812/169432495-71b3fadb-2ae3-42d8-8979-e23cae855262.png" width="200"/>
 
