@@ -44,3 +44,5 @@ Below we have separated our findings into two categories: cooking obstacles and 
 
 ### c - Sharing Recipes
   Participants want to share recipes they are proud of, primarily through social media or friends/family. Since our app has social elements to it, mainly through the streaming and videos on how to make certain dishes. Users of lesser skill can show off what they have learned, and experienced cooks can teach less skilled users useful information and share tips on how to do something better or faster.
+
+
