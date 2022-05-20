@@ -38,7 +38,7 @@ As you can see from the left screenshot above, the search bar is covered by the 
 
 </div>
 
-</br >
+<br />
 
 The problem with the left screenshot above is that it is unclear to the user what the arrow button at the top right hand corner of the page does. It could mean to go to another page or it could be a "Share" button. In order to fix this problem, we instead added a dropdown menu that will have specific labels for what will happen on tap.
 
