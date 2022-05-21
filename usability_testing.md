@@ -5,7 +5,7 @@ parent: Prototyping
 nav_order: 2
 ---
 
-# Usability Testing
+# <img src="https://user-images.githubusercontent.com/72105812/169626186-4a3517be-8d07-4815-93e3-e4c7ea11f8fb.png" width="40"> Usability Testing
 
 ## Usability Test Description
 
