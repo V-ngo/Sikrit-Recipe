@@ -11,6 +11,6 @@ nav_order: 8
 | ------------------ | ------------- | ------------ | --------------- | ------------------ |
 | Vy Ngo             | Benjamin Kao  | Sherman Wong | Alexander Smith | Edhel Jhon Cenario |
 
-</br >
+<br />
 
 Students @ SFSU. Human-Computer Interaction Class. Spring 2022.
