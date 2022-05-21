@@ -4,7 +4,7 @@ title: Design Process
 nav_order: 2
 ---
 
-# Design Process
+# <img src="https://user-images.githubusercontent.com/72105812/169626628-98f8c995-ec18-4111-9fcf-e5c66ca32964.png" width="40"> Design Process
 
 
 ## User Research Process
@@ -16,7 +16,9 @@ In our SikritRecipe app, two methods that we used for researching user processes
   We analyzed the data by creating an affinity diagram using a web application called Miro. We coded the answers and observations we received during our user research into smaller pieces. We then grouped up these coded answers based on similarity and themes. We ensured that our themes were consistent mainly because we started off with the basic themes we based our questions off of such as what people thought their cooking obstacles were and what dishes they liked to cook. We then noticed patterns between these basic themes such as where many participants said time was a huge cooking obstacle and some also said that their favorite recipes/dishes were ones that were quick and simple to make. We worked as a team to find these patterns and themes, and we made sure to take a few days off after our first session to make sure we had fresh eyes on it the next time we viewed the affinity diagram.
 
 
-# Findings
+
+# <img src="https://user-images.githubusercontent.com/72105812/169626668-2961dd1d-55af-4529-b99e-e7871f14b7d1.png" width="40"> Findings
+
 
 Below we have separated our findings into two categories: cooking obstacles and cooking motivations. Within each category, we were able to extract different aspects of these categories.
 
