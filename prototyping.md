@@ -5,7 +5,7 @@ nav_order: 3
 has_children: 2
 ---
 
-# Prototyping
+# <img src="https://user-images.githubusercontent.com/72105812/169626267-2632bb8d-cf77-4a97-8cae-70e75328f423.png" width="40"> Prototyping
 
 After creating the low-fidelity wireframes, we moved on to create a high-level prototype using <i>Figma</i>. Our main focus for the 1st iteration prototype was to get a better sense of the flow of the entire app. Below are some screenshots of our 1st iteration prototype:
 
