@@ -4,7 +4,8 @@ title: Wireframing
 nav_order: 2
 ---
 
-# Wireframing
+# <img src="https://user-images.githubusercontent.com/72105812/169626442-056dced0-06b3-40fc-9563-4cdfc411bf67.png" width="40"> Wireframing
+
 
 ## Design Prototyping
 After extracting some basic themes from our user research study, we moved onto designing low-fidelity wireframes to get a better sense of how we would design certain features to accomodate our users.
